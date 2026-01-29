@@ -1,1 +1,2 @@
 Implemented user login functionality
+Added password validation rules

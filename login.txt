@@ -1,0 +1,4 @@
+Implemented user login functionality
+Added password validation rules
+Created dashboard layout for logged-in users
+Displayed user profile information on dashboard
